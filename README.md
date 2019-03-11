@@ -1,10 +1,9 @@
-# Simple Bot en Discord.py rewrite
-
+# Simple Bot en Discord.py
 ### Requisitos
 
 `> Python +3.5`
 
-`> Discord.py rewrite`
+`> Discord.py su framework discord.ext`
 
 ### Instalación
 
